@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML and some interesting microbiome projects.
 - 📫 You can reach me by my email: yuteng@henu.edu.cn
 - 😄 Pronouns: him
-- ⚡ Fun fact: the longest programme I executed is the circulation of 'Hello world'
+- ⚡ Fun fact: One day, I post a message "When I executed the code for thirty minutes. I know that I am not the 'Hello world'teenager." when I took up data analysis. However, it is the large data that made that, not how complex my codes are.  
 
 <!---
 Yao-yt/Yao-yt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
